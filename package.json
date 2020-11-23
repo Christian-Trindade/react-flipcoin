@@ -1,0 +1,39 @@
+{
+  "name": "react-flipcoin",
+  "version": "0.0.1",
+  "description": "react component that allows you to control the result of the heads or tails and customize the coins",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christian-Trindade/react-flipcoin.git"
+  },
+  "keywords": [
+    "react",
+    "head",
+    "tails",
+    "coin",
+    "flip"
+  ],
+  "author": "Christian Trindade de Moura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christian-Trindade/react-flipcoin/issues"
+  },
+  "homepage": "https://github.com/Christian-Trindade/react-flipcoin#readme",
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "styled-components": "^5.2.1"
+  },
+  "peerDependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4"
+  }
+}
